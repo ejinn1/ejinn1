@@ -13,45 +13,54 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Euijin's+Github!;Front-End+Developer" alt="Typing SVG" /></a>
-</div>
-
 <!-- 내용 부분 -->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/tailwindcss-38b2ac.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
-<br>
+## ✨ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/zustand-777BB4.svg?style=for-the-badge&logo=zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-38b2ac.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/zustand-777BB4.svg?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
 </div>
-
-<br>
 
 <!--
 
-<h3 align="center">📚 Studying 📚</h3>
+## 📚 Studying
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-db7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+    <img src="https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp;
+ <img src="https://img.shields.io/badge/supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
+-->
 
-<br>
+## 🎓 Education
+
+**Sejong University**  
+Bachelor of Science in Computer Science  
+Graduated: February 2024
+
+<br />
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ejinn1&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
+<!--
+## 📫 Contact
+
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Website**: [Your Personal Website](https://yourwebsite.com)
+-->
+
+<!--
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -70,15 +79,25 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />
 </div>
 
--->
 
-<!--
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
+
 -->
+
 <br>
+
+<!--
+### Honors & Awards 🏆
+
+- **Dean's List**: Spring 2021, Fall 2021, Spring 2022
+- **Best Project Award**: Capstone Design, Fall 2022
+
+-->
 
 
 <br>
