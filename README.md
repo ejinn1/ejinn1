@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--
+
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-db7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;
@@ -67,6 +69,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />
 </div>
+
+-->
 
 <!--
 <div align="center">
