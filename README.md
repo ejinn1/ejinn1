@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 <!-- 내용 부분 -->
 ## ✨ Tech Stack
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/tailwindcss-38b2ac.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/zustand-777BB4.svg?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
 </div>
+
+<br>
 
 <!--
 
