@@ -91,10 +91,3 @@ Here are some ideas to get you started:
 </div>
 -->
 
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ejinn1&theme=github-compact" alt="Ejinn1's github activity graph" width="60%">
-  </a>
-</div>
-
