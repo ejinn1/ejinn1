@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 
 <!-- 내용 부분 -->
 
-## 🎓 Education
+## 안녕하세요, 🌿 **유의진**입니다.   
 
-**Sejong University**  
-Bachelor of Science in Computer Science  
-Graduated: February 2024
+### 📖 Education   
+**Sejong University** - Computer Engineering (~24.02)
 
 <br />
 
