@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- 내용 부분 -->
 
-## 안녕하세요, 🌿 **유의진**입니다.   
+## 🌱 안녕하세요, **유의진**입니다.   
 
 ### 📖 Education   
 **Sejong University** - Computer Engineering (~24.02)
