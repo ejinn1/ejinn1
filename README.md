@@ -22,13 +22,48 @@ Here are some ideas to get you started:
 
 <br />
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ejinn1"
-  width="600"
-  height="300"
-/>
-</a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/ejinn1?pet-id=644409979941423340"
+      width="600"
+      height="120"
+    />
+  </a>
+
+
+<!--
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/ejinn1?pet-id=644409979941423340"
+      width="600"
+      height="120"
+    />
+  </a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/ejinn1?pet-id=644410523992988590"
+      width="600"
+      height="120"
+    />
+  </a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/ejinn1?pet-id=644408489050912903"
+      width="600"
+      height="120"
+    />
+  </a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/ejinn1?pet-id=644410475326484536"
+      width="600"
+      height="120"
+    />
+  </a>
+-->
+  
+  
+  
 
 <!--
 ## 📫 Contact
