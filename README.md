@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 
 <br />
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ejinn1"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 ## 📫 Contact
 
