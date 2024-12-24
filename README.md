@@ -20,15 +20,11 @@ Here are some ideas to get you started:
 ### 📖 Education   
 **Sejong University** - Computer Engineering (~24.02)
 
-<br />
+### 📝 Blog
 
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/lines/ejinn1?pet-id=644409979941423340"
-      width="600"
-      height="120"
-    />
-  </a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eui-jin)](https://github.com/eungyeole/velog-readme-stats)
+
+<br />
 
 
 <!--
