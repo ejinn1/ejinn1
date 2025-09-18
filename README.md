@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eui-jin)](https://velog.io/@eui-jin)
 
+### 💻 Code
+[![Solved.ac
+ejinn1](http://mazassumnida.wtf/api/mini/generate_badge?boj=ejinn1)](https://solved.ac/ejinn1)
 
 <br />
 
