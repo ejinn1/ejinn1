@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 ### 📖 Education   
 **Sejong University** - Computer Engineering (~24.02)
 
+<!--
 ### 📝 Blog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eui-jin)](https://velog.io/@eui-jin)
+-->
 
 ### 💻 Code
 [![Solved.ac
