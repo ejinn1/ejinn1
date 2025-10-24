@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ### 📖 Education / Experience
 
-**Nadoo** - `FE Intern` (2025.04 ~ 2025.06)  <br />
+**Nadoo** - `FE 인턴` (2025.04 ~ 2025.06)  <br />
 **코드잇** - `FE 심화 부트캠프` (2024.11 ~ 2025.01) <br />
 **청년 일경험** - `Next.js 2기` (2024.07 ~ 2024.09) <br />
-**Sejong University** - `Computer Engineering` (2022.03 ~ 2024.02)
+**Sejong University** - `컴퓨터공학과 편입` (2022.03 ~ 2024.02)
 
 <!--
 ### 📝 Blog
