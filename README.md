@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 ## 안녕하세요, **유의진**입니다.   
 
-### 📖 Education / Experience
-**Nadoo** - `FE Intern` (2025.04 ~ 2025.06)  <br />
-**Sejong University** - `Computer Engineering` (~24.02)
 
+### 📖 Education / Experience
+
+**Nadoo** - `FE Intern` (2025.04 ~ 2025.06)  <br />
+**코드잇** - `FE 심화 부트캠프` (2024.11 ~ 2025.01) <br />
+**청년 일경험** - `Next.js 2기` (2024.07 ~ 2024.09) <br />
+**Sejong University** - `Computer Engineering` (2022.03 ~ 2024.02)
 
 <!--
 ### 📝 Blog
@@ -28,7 +31,6 @@ Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eui-jin)](https://velog.io/@eui-jin)
 -->
 
-<br />
 
 ### 🕰️ Certificate
 **SQLD** - 2025.09.19 <br />
