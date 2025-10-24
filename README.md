@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 ## 🌱 안녕하세요, **유의진**입니다.   
 
-### 📖 Education   
-**Sejong University** - Computer Engineering (~24.02)
+### 📖 Education / Experience
+**Nadoo** - `FE Intern` (2025.04 ~ 2025.06)  <br />
+**Sejong University** - `Computer Engineering` (~24.02)
+
+ <br />
 
 <!--
 ### 📝 Blog
@@ -30,8 +33,12 @@ Here are some ideas to get you started:
 [![Solved.ac
 ejinn1](http://mazassumnida.wtf/api/mini/generate_badge?boj=ejinn1)](https://solved.ac/ejinn1)
 
-<br />
+ <br />
 
+### 🕰️ Certificate
+**SQLD** - 2025.09.19 <br />
+**TOEIC Speaking** - 2025.07.27 <br />
+**정보처리기사** - 2024.06.18
 
 <!--
   <a href="https://github.com/devxb/gitanimals">
