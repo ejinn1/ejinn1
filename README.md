@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 📖 Education / Experience
 
-**kt cloud TECHUP** - `Backend 부트캠프` (2025.09 ~ 2026.04)  <br />
+**kt cloud TECHUP** - `BE 부트캠프` (2025.09 ~ 2026.04)  <br />
 **Nadoo** - `FE 인턴` (2025.04 ~ 2025.06)  <br />
 **코드잇** - `FE 심화 부트캠프` (2024.11 ~ 2025.01) <br />
 **청년 일경험** - `Next.js 2기` (2024.07 ~ 2024.09) <br />
