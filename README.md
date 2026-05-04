@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 ### 🏆 Awards
 
-**Next.js 2기 과정 우수상 (3등)** - 2024.09.20  <br />
 **KT Cloud TECHUP 과정 대상 (1등)** - 2026.04.22  <br />
+**Next.js 2기 과정 우수상 (3등)** - 2024.09.20  <br />
 
 <br />
 
