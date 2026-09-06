@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### 📖 Education / Experience
 
+**청년 일경험** - `바이올렛페이` (2026.07 ~ 2026.09)  <br />
 **kt cloud TECHUP** - `BE 부트캠프` (2025.09 ~ 2026.04)  <br />
 **Nadoo** - `FE 인턴` (2025.04 ~ 2025.06)  <br />
 **코드잇** - `FE 심화 부트캠프` (2024.11 ~ 2025.01) <br />
